@@ -1,2 +1,5 @@
 project/Library/
 project/Temp/
+project/.vs/
+*.sln
+*.csproj
